@@ -1,0 +1,6 @@
+Invoking command in '/home/mathias/movo_ws/build/movo_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base
+Invoked command in '/home/mathias/movo_ws/build/movo_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base
+Invoking command in '/home/mathias/movo_ws/build/movo_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mathias/movo_ws/build/movo_base -- -j12 -l12
+Invoked command in '/home/mathias/movo_ws/build/movo_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mathias/movo_ws/build/movo_base -- -j12 -l12
+Invoking command in '/home/mathias/movo_ws/build/movo_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mathias/movo_ws/build/movo_base
+Invoked command in '/home/mathias/movo_ws/build/movo_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mathias/movo_ws/build/movo_base

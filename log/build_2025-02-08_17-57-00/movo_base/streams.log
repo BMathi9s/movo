@@ -1,0 +1,45 @@
+[0.011s] Invoking command in '/home/mathias/movo_ws/build/movo_base': /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base
+[0.109s] -- The C compiler identification is GNU 11.4.0
+[0.195s] -- The CXX compiler identification is GNU 11.4.0
+[0.206s] -- Detecting C compiler ABI info
+[0.290s] -- Detecting C compiler ABI info - done
+[0.296s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.297s] -- Detecting C compile features
+[0.297s] -- Detecting C compile features - done
+[0.300s] -- Detecting CXX compiler ABI info
+[0.375s] -- Detecting CXX compiler ABI info - done
+[0.382s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.382s] -- Detecting CXX compile features
+[0.383s] -- Detecting CXX compile features - done
+[0.386s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.530s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.612s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.654s] Error parsing '/home/mathias/movo_ws/src/movo_base/package.xml':
+[0.689s] Traceback (most recent call last):
+[0.689s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.689s]     main()
+[0.689s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.689s]     raise e
+[0.689s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.690s]     package = parse_package_string(
+[0.690s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 788, in parse_package_string
+[0.690s]     pkg.validate(warnings=warnings)
+[0.690s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 330, in validate
+[0.690s]     raise InvalidPackage('\n'.join(errors), self.filename)
+[0.690s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/mathias/movo_ws/src/movo_base/package.xml':
+[0.690s] Invalid email "eltopchi1@gmail..com" for person "mathias"
+[0.700s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.700s]   execute_process(/usr/bin/python3
+[0.700s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.701s]   /home/mathias/movo_ws/src/movo_base/package.xml
+[0.701s]   /home/mathias/movo_ws/build/movo_base/ament_cmake_core/package.cmake)
+[0.701s]   returned error code 1
+[0.701s] Call Stack (most recent call first):
+[0.701s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.701s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.701s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.701s] 
+[0.701s] [0m
+[0.701s] -- Configuring incomplete, errors occurred!
+[0.701s] See also "/home/mathias/movo_ws/build/movo_base/CMakeFiles/CMakeOutput.log".
+[0.708s] Invoked command in '/home/mathias/movo_ws/build/movo_base' returned '1': /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base

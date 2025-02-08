@@ -1,0 +1,25 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mathias/movo_ws/build/movo_base
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/ament_index/resource_index/package_run_dependencies/movo_base
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/ament_index/resource_index/parent_prefix_path/movo_base
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/environment/ament_prefix_path.sh
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/environment/path.sh
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/environment/path.dsv
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/local_setup.bash
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/local_setup.sh
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/local_setup.zsh
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/local_setup.dsv
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/package.dsv
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/ament_index/resource_index/packages/movo_base
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/cmake/movo_baseConfig.cmake
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/cmake/movo_baseConfig-version.cmake
+-- Symlinking: /home/mathias/movo_ws/install/movo_base/share/movo_base/package.xml

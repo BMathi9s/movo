@@ -1,0 +1,1 @@
+/home/mathias/movo_ws/build/movo_base/ament_cmake_environment_hooks/local_setup.bash

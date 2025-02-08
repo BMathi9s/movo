@@ -1,0 +1,2 @@
+Invoking command in '/home/mathias/movo_ws/build/movo_base': /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base
+Invoked command in '/home/mathias/movo_ws/build/movo_base' returned '1': /usr/bin/cmake /home/mathias/movo_ws/src/movo_base -DCMAKE_INSTALL_PREFIX=/home/mathias/movo_ws/install/movo_base
